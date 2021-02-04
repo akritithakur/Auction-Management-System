@@ -1,2 +1,2 @@
 # Auction-Management-System
-Software Engineering Project
+Deconstructed and implement all tasks in life cycle of creating a software requirements specification (SRS) document. Identified uses cases through background research, noun analysis, interviews and fact-finding charts; implemented the tasks flows using journey maps, interactions diagrams and UML diagrams; noted dependencies and assumptions, and implemented this system using HTML, PHP , Javascript and CSS frameworks. The system was designed to handle new and returning users, bidding requests and automatic bidding.
